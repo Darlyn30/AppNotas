@@ -67,7 +67,7 @@ function agregarNota(){
 
     let img = document.createElement('img');
     img.className = 'card-img-top';
-    img.src = '/assets/notas.jpg';
+    img.src = './assets/notas.jpg';
     img.alt = '#';
 
     let cardBody = document.createElement('div');
