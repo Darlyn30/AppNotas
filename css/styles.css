@@ -1,0 +1,30 @@
+
+#emptyDiv p {
+    position: fixed;
+    margin-top: 200px;
+}
+
+.btn-danger {
+    position: relative;
+    border-radius: 40px;
+    font-size: 1.2rem;
+    margin-top: 400px;
+    margin-right: 30px;
+}
+
+#emptyDiv {
+    margin: 0 10px;
+}
+
+#form div {
+    margin-top: 100px;
+}
+
+#notes {
+    margin-top: 100px;
+    margin-left: 40px;
+}
+
+.btn-primary {
+    margin-left: 30px;
+}
